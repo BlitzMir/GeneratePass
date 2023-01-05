@@ -22,4 +22,4 @@ No hay requisitos especiales.
 ----------
 
 #### Colaborador
-creado con 💚 by Claudio Alonso
+creado con 💚 by Matias Palacios
